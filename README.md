@@ -31,3 +31,5 @@ In summary, when a derived class object is defined in C++, the constructors are 
 Code :
 
 https://github.com/anikethmehta/LAB13/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB13/blob/main/code2.png
