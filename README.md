@@ -33,3 +33,7 @@ Code :
 https://github.com/anikethmehta/LAB13/blob/main/code1.png
 
 https://github.com/anikethmehta/LAB13/blob/main/code2.png
+
+Output :
+
+https://github.com/anikethmehta/LAB13/blob/main/output.png
