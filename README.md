@@ -1,5 +1,5 @@
 ### ***Title*** : LAB13
-### ***Aim*** : Linked List
+### ***Aim*** : Inheritance
 ### ***Algorithm*** : 
 ### ***Explanation*** :
 ### ***Output Screenshot*** :
